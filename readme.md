@@ -1,13 +1,7 @@
-# goods list <br>
-* [miki_20200501](./goods/miki_20200501.md) <br>
-* [miki_20200506](./goods/miki_20200506.md) <br>
-
-* [miki_20200501](./goods/miki_20200501.md) <br>
-
-* [miki_20200501_1](./goods/miki_20200501_1.md) <br>
-
-* [miki_20200501_1](./goods/miki_20200501_1.md) <br>
-
-* [miki_20200501_1](./goods/miki_20200501_1.md) <br>
-
-* [miki_20200501_1](./goods/miki_20200501_1.md) <br>
+# goods list <br>
+
+* [miki_20200501](./goods/miki_20200501.md) <br>
+
+* [miki_20200506](./goods/miki_20200506.md) <br>
+
+* [miki_20200501_1](./goods/miki_20200501_1.md) <br>
