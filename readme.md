@@ -1,2 +1,3 @@
 # goods list <br>
-* [miki_test](./goods/miki_test.md) <br>
+* [miki_20200501](./goods/miki_20200501.md) <br>
+* [miki_20200506](./goods/miki_20200506.md) <br>
