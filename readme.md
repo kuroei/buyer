@@ -8,3 +8,4 @@
 
 * [miki_20200507](./goods/miki_20200507.md) <br>
 * [miki_20200507_2](./goods/miki_20200507_2.md) <br>
+* [miki_20200507_2](./goods/miki_20200507_2.md) <br>
