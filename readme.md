@@ -35,3 +35,7 @@
 * [cham_women_T](./goods/cham_women_T.md) <br>
 
 * [miki_20200704_1](./goods/miki_20200704_1.md) <br>
+* [miki_2020_Sep_P31-P39](./goods/miki_2020_Sep_P31-P39.md) <br>
+* [miki_2020_Sep_P17-P24](./goods/miki_2020_Sep_P17-P24.md) <br>
+* [miki_2020_Sep_P8-P16](./goods/miki_2020_Sep_P8-P16.md) <br>
+* [miki_2020_Sep_P1-P7](./goods/miki_2020_Sep_P1-P7.md) <br>
